@@ -1,0 +1,219 @@
+Starting file sorting...
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\best-background-music-no-copyright-244084.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\best-background-music-no-copyright-244084.mp3
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\data on unat.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\data on unat.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\DT20245276454_Application (1).pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application (1).pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\10th marksheet_compressed.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet_compressed.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\DT20245276454_Application.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Firefox Installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Firefox Installer.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\bangla-background-music-no-copyright-background-music-218993.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\bangla-background-music-no-copyright-background-music-218993.mp3
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\mingw-get-setup.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\mingw-get-setup.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\GATE _AE_2025_Syllabus.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\GATE _AE_2025_Syllabus.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\admit card ibps clerk.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\admit card ibps clerk.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\ChatGPT.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ChatGPT.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\10th marksheet.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-i386-win32.zip
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-x64_86-win64.zip
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\resume-SDE.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\resume-SDE.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Religious Hindu Baby Names.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\Religious Hindu Baby Names.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\ras form.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ras form.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\syllabus for all exams.docx -> C:\Users\EMPEROR\Downloads\sorting testing\.docx\syllabus for all exams.docx
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\startup ideas.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\startup ideas.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\THUMB_1.jpeg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpeg\THUMB_1.jpeg
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\OpenSSLStaticLibs.7z -> C:\Users\EMPEROR\Downloads\sorting testing\.7z\OpenSSLStaticLibs.7z
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Valorant Tracker - Installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Valorant Tracker - Installer.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\procedural generation book.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\procedural generation book.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\WhatsApp Image 2024-09-12 at 15.06.32_da4218da.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.32_da4218da.jpg
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394.jpg
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\tvari-tokyo-cafe-159065.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\tvari-tokyo-cafe-159065.mp3
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\WIN_20241010_22_35_45_Pro.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WIN_20241010_22_35_45_Pro.jpg
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\HashInfo.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\HashInfo.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\libeay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\libeay32.dll
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\download.htm -> C:\Users\EMPEROR\Downloads\sorting testing\.htm\download.htm
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\OpenSSL License.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\ReadMe.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\ReadMe.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\openssl.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\openssl.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32\ssleay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\ssleay32.dll
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\HashInfo.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\HashInfo.txt
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\OpenSSL License.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License_duplicate.txt)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\openssl.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\openssl.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\ReadMe.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\ReadMe.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\ssleay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\ssleay32.dll
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Cyberpunk 2077 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Cyberpunk 2077 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Days Gone [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Days Gone [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64\libeay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\libeay32.dll
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\spacedesk_driver_Win_10_64_v2121.msi -> C:\Users\EMPEROR\Downloads\sorting testing\.msi\spacedesk_driver_Win_10_64_v2121.msi
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Dying Light 2 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Dying Light 2 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\ELDEN RING [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\ELDEN RING [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Forza Horizon 5 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Forza Horizon 5 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Ghost of Tsushima DC [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Ghost of Tsushima DC [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Grand Theft Auto V [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Grand Theft Auto V [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Hellblade - Senua's Sacrifice [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Hellblade - Senua's Sacrifice [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\God of War [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\God of War [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Red Dead Redemption 2 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Red Dead Redemption 2 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Horizon - Forbidden West CE [FitGirl Repack] (1).torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack] (1).torrent
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Horizon - Forbidden West CE [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack]_duplicate.torrent)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Sekiro - Shadows Die Twice [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Sekiro - Shadows Die Twice [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Spider-Man - Miles Morales [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-Man - Miles Morales [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Spider-man Remastered [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-man Remastered [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\SUCCUBUS [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\SUCCUBUS [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\Starfield [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Starfield [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\torrents\The Last of Us - Part I [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\The Last of Us - Part I [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\world.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\world.zip
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Install VALORANT.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Install VALORANT.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\utorrent_installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\utorrent_installer.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\matlab_R2024b_Windows.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\matlab_R2024b_Windows.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Evernote-latest.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Evernote-latest.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\VMware-workstation-full-17.5.2-23775571.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\VMware-workstation-full-17.5.2-23775571.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar -> C:\Users\EMPEROR\Downloads\sorting testing\.rar\Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\cuda_12.5.1_555.85_windows.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\cuda_12.5.1_555.85_windows.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\ubuntu-24.04.1-desktop-amd64.iso -> C:\Users\EMPEROR\Downloads\sorting testing\.iso\ubuntu-24.04.1-desktop-amd64.iso
+File sorting completed successfully.
+Starting file sorting...
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.docx\syllabus for all exams.docx -> C:\Users\EMPEROR\Downloads\sorting testing\.docx\syllabus for all exams.docx
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.7z\OpenSSLStaticLibs.7z -> C:\Users\EMPEROR\Downloads\sorting testing\.7z\OpenSSLStaticLibs.7z
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\mingw-get-setup.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\mingw-get-setup.exe
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.docx - Copy\syllabus for all exams.docx (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.docx\syllabus for all exams_duplicate.docx)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Firefox Installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Firefox Installer.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\openssl.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\openssl.exe
+Error moving file: WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.dll/ssleay32.dll') and WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.dll/ssleay32.dll') are the same file
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.dll - Copy\ssleay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\ssleay32.dll
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Valorant Tracker - Installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Valorant Tracker - Installer.exe
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.7z - Copy\OpenSSLStaticLibs.7z (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.7z\OpenSSLStaticLibs_duplicate.7z)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\Firefox Installer.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Firefox Installer_duplicate.exe)
+Error moving file: WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.dll/libeay32.dll') and WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.dll/libeay32.dll') are the same file
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.dll - Copy\libeay32.dll -> C:\Users\EMPEROR\Downloads\sorting testing\.dll\libeay32.dll
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\mingw-get-setup.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\mingw-get-setup_duplicate.exe)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\openssl.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\openssl_duplicate.exe)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Install VALORANT.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Install VALORANT.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\utorrent_installer.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\utorrent_installer.exe
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\Install VALORANT.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Install VALORANT_duplicate.exe)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\utorrent_installer.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\utorrent_installer_duplicate.exe)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\Valorant Tracker - Installer.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Valorant Tracker - Installer_duplicate.exe)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.htm\download.htm -> C:\Users\EMPEROR\Downloads\sorting testing\.htm\download.htm
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.jpeg\THUMB_1.jpeg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpeg\THUMB_1.jpeg
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.jpeg - Copy\THUMB_1.jpeg (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.jpeg\THUMB_1_duplicate.jpeg)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.32_da4218da.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.32_da4218da.jpg
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394.jpg
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.htm - Copy\download.htm (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.htm\download_duplicate.htm)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WIN_20241010_22_35_45_Pro.jpg -> C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WIN_20241010_22_35_45_Pro.jpg
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.jpg - Copy\WhatsApp Image 2024-09-12 at 15.06.32_da4218da.jpg (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.32_da4218da_duplicate.jpg)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.jpg - Copy\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394.jpg (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WhatsApp Image 2024-09-12 at 15.06.45_7b3b7394_duplicate.jpg)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.jpg - Copy\WIN_20241010_22_35_45_Pro.jpg (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.jpg\WIN_20241010_22_35_45_Pro_duplicate.jpg)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\bangla-background-music-no-copyright-background-music-218993.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\bangla-background-music-no-copyright-background-music-218993.mp3
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\best-background-music-no-copyright-244084.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\best-background-music-no-copyright-244084.mp3
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.mp3 - Copy\bangla-background-music-no-copyright-background-music-218993.mp3 (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\bangla-background-music-no-copyright-background-music-218993_duplicate.mp3)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.mp3 - Copy\best-background-music-no-copyright-244084.mp3 (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\best-background-music-no-copyright-244084_duplicate.mp3)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\tvari-tokyo-cafe-159065.mp3 -> C:\Users\EMPEROR\Downloads\sorting testing\.mp3\tvari-tokyo-cafe-159065.mp3
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.mp3 - Copy\tvari-tokyo-cafe-159065.mp3 (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.mp3\tvari-tokyo-cafe-159065_duplicate.mp3)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.msi\spacedesk_driver_Win_10_64_v2121.msi -> C:\Users\EMPEROR\Downloads\sorting testing\.msi\spacedesk_driver_Win_10_64_v2121.msi
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet_compressed.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet_compressed.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\admit card ibps clerk.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\admit card ibps clerk.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ChatGPT.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ChatGPT.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application (1).pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application (1).pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\GATE _AE_2025_Syllabus.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\GATE _AE_2025_Syllabus.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\procedural generation book.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\procedural generation book.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ras form.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ras form.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\Religious Hindu Baby Names.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\Religious Hindu Baby Names.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\resume-SDE.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\resume-SDE.pdf
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\startup ideas.pdf -> C:\Users\EMPEROR\Downloads\sorting testing\.pdf\startup ideas.pdf
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\10th marksheet.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\10th marksheet_compressed.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\10th marksheet_compressed_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\admit card ibps clerk.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\admit card ibps clerk_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\ChatGPT.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ChatGPT_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\DT20245276454_Application (1).pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application (1)_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\DT20245276454_Application.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\DT20245276454_Application_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\GATE _AE_2025_Syllabus.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\GATE _AE_2025_Syllabus_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.msi - Copy\spacedesk_driver_Win_10_64_v2121.msi (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.msi\spacedesk_driver_Win_10_64_v2121_duplicate.msi)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\procedural generation book.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\procedural generation book_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\ras form.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\ras form_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\resume-SDE.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\resume-SDE_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\Religious Hindu Baby Names.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\Religious Hindu Baby Names_duplicate.pdf)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy\startup ideas.pdf (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.pdf\startup ideas_duplicate.pdf)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\matlab_R2024b_Windows.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\matlab_R2024b_Windows.exe
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Cyberpunk 2077 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Cyberpunk 2077 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Days Gone [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Days Gone [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Dying Light 2 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Dying Light 2 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\ELDEN RING [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\ELDEN RING [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Forza Horizon 5 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Forza Horizon 5 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Ghost of Tsushima DC [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Ghost of Tsushima DC [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\God of War [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\God of War [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Grand Theft Auto V [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Grand Theft Auto V [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Hellblade - Senua's Sacrifice [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Hellblade - Senua's Sacrifice [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack] (1).torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack] (1).torrent
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack]_duplicate.torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack]_duplicate_duplicate.torrent)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Red Dead Redemption 2 [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Red Dead Redemption 2 [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Sekiro - Shadows Die Twice [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Sekiro - Shadows Die Twice [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-Man - Miles Morales [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-Man - Miles Morales [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-man Remastered [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-man Remastered [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Starfield [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Starfield [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\SUCCUBUS [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\SUCCUBUS [FitGirl Repack].torrent
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\The Last of Us - Part I [FitGirl Repack].torrent -> C:\Users\EMPEROR\Downloads\sorting testing\.torrent\The Last of Us - Part I [FitGirl Repack].torrent
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Cyberpunk 2077 [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Cyberpunk 2077 [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Days Gone [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Days Gone [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Dying Light 2 [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Dying Light 2 [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\ELDEN RING [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\ELDEN RING [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Forza Horizon 5 [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Forza Horizon 5 [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Ghost of Tsushima DC [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Ghost of Tsushima DC [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\God of War [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\God of War [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Grand Theft Auto V [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Grand Theft Auto V [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Hellblade - Senua's Sacrifice [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Hellblade - Senua's Sacrifice [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Horizon - Forbidden West CE [FitGirl Repack] (1).torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack] (1)_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Horizon - Forbidden West CE [FitGirl Repack]_duplicate.torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Horizon - Forbidden West CE [FitGirl Repack]_duplicate_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Red Dead Redemption 2 [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Red Dead Redemption 2 [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Sekiro - Shadows Die Twice [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Sekiro - Shadows Die Twice [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Spider-Man - Miles Morales [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-Man - Miles Morales [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\matlab_R2024b_Windows.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\matlab_R2024b_Windows_duplicate.exe)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Spider-man Remastered [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Spider-man Remastered [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\SUCCUBUS [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\SUCCUBUS [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\Starfield [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\Starfield [FitGirl Repack]_duplicate.torrent)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.txt\data on unat.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\data on unat.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.txt\HashInfo.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\HashInfo.txt
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License.txt
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License_duplicate.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License_duplicate_duplicate.txt)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.txt\ReadMe.txt -> C:\Users\EMPEROR\Downloads\sorting testing\.txt\ReadMe.txt
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy\The Last of Us - Part I [FitGirl Repack].torrent (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.torrent\The Last of Us - Part I [FitGirl Repack]_duplicate.torrent)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy\data on unat.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\data on unat_duplicate.txt)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy\HashInfo.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\HashInfo_duplicate.txt)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy\OpenSSL License.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License_duplicate.txt)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy\OpenSSL License_duplicate.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\OpenSSL License_duplicate_duplicate.txt)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy\ReadMe.txt (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.txt\ReadMe_duplicate.txt)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-i386-win32.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-i386-win32.zip
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-x64_86-win64.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-x64_86-win64.zip
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.zip - Copy\openssl-1.0.2q-i386-win32.zip (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-i386-win32_duplicate.zip)
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.zip - Copy\openssl-1.0.2q-x64_86-win64.zip (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.zip\openssl-1.0.2q-x64_86-win64_duplicate.zip)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.zip\world.zip -> C:\Users\EMPEROR\Downloads\sorting testing\.zip\world.zip
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.zip - Copy\world.zip (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.zip\world_duplicate.zip)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Evernote-latest.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\Evernote-latest.exe
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\Evernote-latest.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\Evernote-latest_duplicate.exe)
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe\VMware-workstation-full-17.5.2-23775571.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\VMware-workstation-full-17.5.2-23775571.exe
+Duplicate file found: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\VMware-workstation-full-17.5.2-23775571.exe (renamed to: C:\Users\EMPEROR\Downloads\sorting testing\.exe\VMware-workstation-full-17.5.2-23775571_duplicate.exe)
+Error moving file: WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.rar/Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar') and WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.rar/Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar') are the same file
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.rar - Copy\Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar -> C:\Users\EMPEROR\Downloads\sorting testing\.rar\Getintopc.comAdobe_Photoshop_CC_2019_20.0.7.28362x64_Multilingual.rar
+Error moving file: WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.exe/cuda_12.5.1_555.85_windows.exe') and WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.exe/cuda_12.5.1_555.85_windows.exe') are the same file
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy\cuda_12.5.1_555.85_windows.exe -> C:\Users\EMPEROR\Downloads\sorting testing\.exe\cuda_12.5.1_555.85_windows.exe
+Error moving file: WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.iso/ubuntu-24.04.1-desktop-amd64.iso') and WindowsPath('C:/Users/EMPEROR/Downloads/sorting testing/.iso/ubuntu-24.04.1-desktop-amd64.iso') are the same file
+Moved: C:\Users\EMPEROR\Downloads\sorting testing\.iso - Copy\ubuntu-24.04.1-desktop-amd64.iso -> C:\Users\EMPEROR\Downloads\sorting testing\.iso\ubuntu-24.04.1-desktop-amd64.iso
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.7z - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.dll - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.docx - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.exe - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.htm - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.iso - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.jpeg - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.jpg - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.mp3 - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.msi - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.pdf - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.rar - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.torrent - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.txt - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\.zip - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-i386-win32 - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\openssl-1.0.2q-x64_86-win64 - Copy
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\torrents
+Deleted empty folder: C:\Users\EMPEROR\Downloads\sorting testing\torrents - Copy
+File sorting completed successfully.
